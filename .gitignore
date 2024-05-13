@@ -2,10 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
 # C extensions
 *.so
-sqlite_to_postgres/
+.idea/
 README.md
 # Distribution / packaging
 .Python
@@ -68,10 +67,10 @@ instance/
 
 # Scrapy stuff:
 .scrapy
-
+db.sqlite
+.idea
 # Sphinx documentation
 docs/_build/
-
 # PyBuilder
 .pybuilder/
 target/
